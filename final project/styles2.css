@@ -1,0 +1,19 @@
+html {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(75, 75, 255);
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 50px;
+}
+footer {
+    font-size: 10px;
+    text-align: center;
+    color: aquamarine;
+}
